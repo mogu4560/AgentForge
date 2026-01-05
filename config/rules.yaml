@@ -1,0 +1,23 @@
+rules:
+  - id: SQL_INJECTION
+    name: Unsanitized SQL Query Construction
+    severity: HIGH
+    patterns:
+      - node_type: call_expression
+        contains_function: "execute"
+        arg_pattern: "f-string or string concatenation"
+
+  - id: HARDCODED_SECRET
+    name: Hardcoded API Key or Password
+    severity: CRITICAL
+    patterns:
+      - node_type: assignment
+        variable_names: ["api_key", "secret", "password", "token"]
+
+  - id: UNCLOSED_RESOURCE
+    name: Missing Context Manager for Resource
+    severity: MEDIUM
+    patterns:
+      - node_type: call_expression
+        function_name: "open"
+        outside_with_statement: true
