@@ -172,3 +172,4 @@
 - [2026-04-05T14:13:18] Optimize internal query caching and vector calculations (v1.39)
 - [2026-04-07T18:20:33] Improve API response latency and payload sanitization (v1.40)
 - [2026-01-05T14:27:43] Add benchmark profile generator and validation dataset (v1.1)
+- [2026-01-07T09:52:44] Fix minor formatting and docstring type hints (v1.2)
