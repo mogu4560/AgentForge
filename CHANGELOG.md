@@ -182,3 +182,4 @@
 - [2026-01-23T12:13:15] Add additional unit tests and integration edge-case handlers (v1.9)
 - [2026-01-26T20:58:14] Update README architecture diagrams and quickstart commands (v1.10)
 - [2026-01-28T10:03:53] Add benchmark profile generator and validation dataset (v1.11)
+- [2026-01-31T14:10:39] Improve API response latency and payload sanitization (v1.12)
