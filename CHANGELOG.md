@@ -184,3 +184,4 @@
 - [2026-01-28T10:03:53] Add benchmark profile generator and validation dataset (v1.11)
 - [2026-01-31T14:10:39] Improve API response latency and payload sanitization (v1.12)
 - [2026-02-03T15:16:09] Tune hyperparameters and inference latency thresholds (v1.13)
+- [2026-02-06T16:40:14] Improve API response latency and payload sanitization (v1.14)
