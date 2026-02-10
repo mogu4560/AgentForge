@@ -186,3 +186,4 @@
 - [2026-02-03T15:16:09] Tune hyperparameters and inference latency thresholds (v1.13)
 - [2026-02-06T16:40:14] Improve API response latency and payload sanitization (v1.14)
 - [2026-02-08T20:23:44] Add additional unit tests and integration edge-case handlers (v1.15)
+- [2026-02-10T09:10:06] Update README architecture diagrams and quickstart commands (v1.16)
