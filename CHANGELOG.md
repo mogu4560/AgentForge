@@ -188,3 +188,4 @@
 - [2026-02-08T20:23:44] Add additional unit tests and integration edge-case handlers (v1.15)
 - [2026-02-10T09:10:06] Update README architecture diagrams and quickstart commands (v1.16)
 - [2026-02-13T09:57:03] Optimize internal query caching and vector calculations (v1.17)
+- [2026-02-15T10:57:54] Improve API response latency and payload sanitization (v1.18)
