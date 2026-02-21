@@ -190,3 +190,4 @@
 - [2026-02-13T09:57:03] Optimize internal query caching and vector calculations (v1.17)
 - [2026-02-15T10:57:54] Improve API response latency and payload sanitization (v1.18)
 - [2026-02-17T10:06:05] Improve API response latency and payload sanitization (v1.19)
+- [2026-02-20T18:35:32] Optimize internal query caching and vector calculations (v1.20)
