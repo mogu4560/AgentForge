@@ -191,3 +191,4 @@
 - [2026-02-15T10:57:54] Improve API response latency and payload sanitization (v1.18)
 - [2026-02-17T10:06:05] Improve API response latency and payload sanitization (v1.19)
 - [2026-02-20T18:35:32] Optimize internal query caching and vector calculations (v1.20)
+- [2026-02-23T11:26:33] Tune hyperparameters and inference latency thresholds (v1.21)
