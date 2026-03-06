@@ -196,3 +196,4 @@
 - [2026-02-28T18:28:29] Add benchmark profile generator and validation dataset (v1.23)
 - [2026-03-02T16:12:24] Add benchmark profile generator and validation dataset (v1.24)
 - [2026-03-04T17:45:41] Tune hyperparameters and inference latency thresholds (v1.25)
+- [2026-03-06T13:52:52] Fix minor formatting and docstring type hints (v1.26)
