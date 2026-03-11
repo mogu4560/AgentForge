@@ -198,3 +198,4 @@
 - [2026-03-04T17:45:41] Tune hyperparameters and inference latency thresholds (v1.25)
 - [2026-03-06T13:52:52] Fix minor formatting and docstring type hints (v1.26)
 - [2026-03-08T13:21:38] Update README architecture diagrams and quickstart commands (v1.27)
+- [2026-03-11T16:23:08] Add benchmark profile generator and validation dataset (v1.28)
