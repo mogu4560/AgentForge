@@ -201,3 +201,4 @@
 - [2026-03-11T16:23:08] Add benchmark profile generator and validation dataset (v1.28)
 - [2026-03-13T11:42:28] Add benchmark profile generator and validation dataset (v1.29)
 - [2026-03-15T14:19:31] Enhance logging metrics and Prometheus exporter rules (v1.30)
+- [2026-03-17T10:19:11] Improve API response latency and payload sanitization (v1.31)
