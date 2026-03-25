@@ -204,3 +204,4 @@
 - [2026-03-17T10:19:11] Improve API response latency and payload sanitization (v1.31)
 - [2026-03-20T12:16:54] Fix minor formatting and docstring type hints (v1.32)
 - [2026-03-23T12:17:51] Enhance logging metrics and Prometheus exporter rules (v1.33)
+- [2026-03-25T14:31:14] Update README architecture diagrams and quickstart commands (v1.34)
