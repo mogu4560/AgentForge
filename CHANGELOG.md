@@ -208,3 +208,4 @@
 - [2026-03-28T14:39:25] Fix minor formatting and docstring type hints (v1.35)
 - [2026-03-30T12:37:54] Update README architecture diagrams and quickstart commands (v1.36)
 - [2026-04-02T14:45:28] Fix minor formatting and docstring type hints (v1.37)
+- [2026-04-04T20:21:56] Tune hyperparameters and inference latency thresholds (v1.38)
